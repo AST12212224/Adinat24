@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science and web development
 - 🌱 I’m currently in IB-DP 
 - 🌱 I’m currently learning Django Python and building my own website
-- 💞️ I’m looking to collaborate on Algorithm analysis of NNUE Stockfish 13{Efficiently Updateble Neural Network}
+- Done an EE on Alpha Beta of NNUE Stockfish 13{Efficiently Updateble Neural Network} vs Negamax of Starzilla in chess engine
