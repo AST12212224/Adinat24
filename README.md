@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Aadeshh Tikhe
-- 👀 I’m interested in Data Science and web devlopnment
+- 👋 Hi, I’m Aadeshh Tikhey
+- 👀 I’m interested in Data Science and web development
 - 🌱 I’m currently in IB-DP 
 - 🌱 I’m currently learning Django Python and building my own website
 - 💞️ I’m looking to collaborate on Algorithm analysis of NNUE Stockfish 13{Efficiently Updateble Neural Network}
-- 📫 How to reach me- msg me on instagram (www.instagram.com/aadeshtikhe/)
