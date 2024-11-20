@@ -19,7 +19,7 @@
   4. *Optimizing the Fibonacci sequence.*  
 
 - 💻 **Computer Science Research Paper**  
-  - *Optimizing the Fibonacci sequence from an algorithmic perspective.*
+  - [Optimizing Fibonacci Sequence - Efficient N-th Term Calculation](https://github.com/AST12212224/Efficient-Fibonacci-N-th-term-calculation)
 
 ---
 
