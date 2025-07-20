@@ -14,9 +14,10 @@
 
 - 🧮 **Mathematics Research Papers**  
   1. *Quantifying the probability distribution of a 0-dimensional polytope (point) relative to the centroid and boundary within various 2-dimensional regular polytopes (polygons), and analyzing the outcomes.*  
-  2. *Exploring higher dimensions in Pascal's Triangle.*  
-  3. *Concatenation of numbers from a number theory perspective.*  
-  4. *Optimizing the Fibonacci sequence.*  
+  2. *Exploring higher dimensions in Pascal's Triangle.*
+  3. *Discrete Square Residual Structure (DSRS): A Framework Where Every Integer Reveals Its Own Connection to π* 
+  4. *Concatenation of numbers from a number theory perspective.*  
+  5. *Optimizing the Fibonacci sequence.*  
 
 - 💻 **Computer Science Research Paper**  
   - [Optimizing Fibonacci Sequence - Efficient N-th Term Calculation](https://github.com/AST12212224/Efficient-Fibonacci-N-th-term-calculation)
